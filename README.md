@@ -1,16 +1,17 @@
-### Hi there 👋
+### OI, eu sou a Jhade
+# _Tenho 15 anos, estou cursando o 1º do ensino médio e fazendo curso na área de divulgação de informática básica_
+# os cursos que já fiz:
+- introduçao a  ti
+- itic
+- desing digital
+- ilustrção digital
+- ptocessadores de texto
+- planilhas
+- manutebção, confugurações e redes
+- web desing
+- marketing digital
 
-<!--
-**jhhade/jhhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## me ache aqui também:
+ ✨ https://www.instagram.com/jhade_marya/
+ 
+ ✨https://www.facebook.com/jhade.marya.9/
